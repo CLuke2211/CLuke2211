@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Luke37U
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with your mother
 
 <!---
